@@ -22,7 +22,7 @@ Secondary predictors are
 * Season
 * Windspeed
 
-Additional conculsions and analysis is present in the comments of the jupyter notebook 
+Additional conculsions and analysis are present in the comments of the jupyter notebook 
 
 ## Technologies Used
 * Python
